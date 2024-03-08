@@ -1,14 +1,14 @@
-# Project-Hub
-A place to record all projects, big 🚀 and small 🔋
+A place to record projects, big 🚀 and small 🔋
 
-## Projects
+# Projects
 {:toc}
 TODO: Meant to have a table of contents here. 
 
-## Tested Theme Hierarchy:
+# Tested Theme Hierarchy:
 1. Minimal
 2. Tactile
 3. Minima
 4. Architect
+5. Dinky < CURRENT
 
 
