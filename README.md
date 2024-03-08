@@ -1,10 +1,15 @@
-##A place to record projects, big 🚀 and small 🔋##
+A place to record projects, big 🚀 and small 🔋
 
-Table of contents
+# Projects
+* [first project](#first_project)
+* [second](#second)
+* [third](#third)
 
-## Projects
+## first_project
 
-TODO: Meant to have a table of contents here. 
+## second
+
+## third
 
 ## Tested Theme Hierarchy:
 1. Minimal
