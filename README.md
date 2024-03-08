@@ -11,7 +11,9 @@ A place to record projects, big 🚀 and small 🔋
 
 ## third
 
-## Tested Theme Hierarchy:
+
+
+#### Tested Theme Hierarchy:
 1. Minimal
 2. Tactile
 3. Minima
