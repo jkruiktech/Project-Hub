@@ -1,7 +1,8 @@
-A place to record projects, big 🚀 and small 🔋
+##A place to record projects, big 🚀 and small 🔋##
 
 # Projects
-{:toc}
+{:toc:}
+
 TODO: Meant to have a table of contents here. 
 
 # Tested Theme Hierarchy:
