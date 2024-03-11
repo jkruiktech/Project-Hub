@@ -34,6 +34,9 @@
         {% if site.github.is_user_page %}
           <ul>
             <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
+            {% for page in site.pages %}
+                <a href={{ page.filename }}>{{ page.title }}</a>
+            {% endfor %}
           </ul>
         {% endif %}
       </header>
