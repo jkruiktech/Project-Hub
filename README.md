@@ -1,18 +1,27 @@
 A place to record projects, big 🚀 and small 🔋
 
-# Projects
-* [first project](#first_project)
-* [second](#second)
-* [third](#third)
+## Main page
+Shows links to all the projects, maybe a logo?
 
-## first_project
+TODO: have projects on different pages
 
-## second
+## Projects
+* [**Flow Meter**](#flow_meter)
+* [**Haptic Dial**](#Haptic_Dial)
+* [**Cat Feeder**](#Cat_Feeder)
 
-## third
+---
 
+## Flow Meter
+Context:
 
+## Haptic Dial
+Context:
 
+## Cat Feeder
+Context:
+
+page for themes:
 #### Tested Theme Hierarchy:
 1. Minimal
 2. Tactile
