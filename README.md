@@ -16,7 +16,7 @@ TODO: have projects on different pages
 Context:
 
 <!-- ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif) -->
-![](assets/images/bucket_fill.gif)
+![](https://github.com/jkruiktech/Project-Hub/blob/main/assets/css/images/bucket_fill.gif)
 
 ## Haptic Dial
 Context:
