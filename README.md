@@ -6,9 +6,9 @@ Shows links to all the projects, maybe a logo?
 TODO: have projects on different pages
 
 ## Projects
-* [**Flow Meter**](#flow_meter)
-* [**Haptic Dial**](#Haptic_Dial)
-* [**Cat Feeder**](#Cat_Feeder)
+* [**Flow Meter**](#flow-meter)
+* [**Haptic Dial**](#haptic-dial)
+* [**Cat Feeder**](#cat-feeder)
 
 ---
 
