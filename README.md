@@ -15,6 +15,9 @@ TODO: have projects on different pages
 ## Flow Meter
 Context:
 
+<!-- ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif) -->
+![](assets/images/bucket_fill.gif)
+
 ## Haptic Dial
 Context:
 
@@ -28,6 +31,7 @@ page for themes:
 3. Minima
 4. Architect
 5. Dinky < CURRENT
+6. Just-The-Docs
 
 open it at: https://jkruiktech.github.io/Project-Hub/
 
