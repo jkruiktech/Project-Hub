@@ -19,6 +19,10 @@ Context:
 <!-- ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif) -->
 ![](https://github.com/jkruiktech/Project-Hub/blob/main/assets/css/images/bucket_fill.gif)
 
+### add gif of testing the holding pressure of the relay switch
+
+### add gif/image of the other UI display screens and an explanation of what they're for 
+
 ## Haptic Dial
 Context:
 
@@ -27,7 +31,7 @@ Context:
 
 ## Track Map
 Context:
-
+//test if this shows
 
 page for themes:
 #### Tested Theme Hierarchy:
