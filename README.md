@@ -10,6 +10,7 @@ TODO: have projects on different pages
 * [**Haptic Dial**](#haptic-dial)
 * [**Cat Feeder**](#cat-feeder)
 * [**Track Map**](#track-map)
+* [**Time2Manage**](#time2manage)
 
 ---
 
@@ -19,9 +20,9 @@ Context:
 <!-- ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif) -->
 ![](https://github.com/jkruiktech/Project-Hub/blob/main/assets/css/images/bucket_fill.gif)
 
-### add gif of testing the holding pressure of the relay switch
+##### add gif of testing the holding pressure of the relay switch
 
-### add gif/image of the other UI display screens and an explanation of what they're for 
+##### add gif/image of the other UI display screens and an explanation of what they're for 
 
 ## Haptic Dial
 Context:
@@ -31,7 +32,12 @@ Context:
 
 ## Track Map
 Context:
-//test if this shows
+
+## Time2Manage
+
+[//] test
+
+##### show figma image of the concept. explain the idea, who it's for, why they need it and why it was halted.
 
 page for themes:
 #### Tested Theme Hierarchy:
