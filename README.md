@@ -33,11 +33,11 @@ Context:
 ## Track Map
 Context:
 
-[comment]: <> testa
+[comment]: <> (esta)
 
 ## Time2Manage
 
-[//] test
+[//]: <> (test)
 
 ##### show figma image of the concept. explain the idea, who it's for, why they need it and why it was halted.
 
