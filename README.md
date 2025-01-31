@@ -9,6 +9,7 @@ TODO: have projects on different pages
 * [**Flow Meter**](#flow-meter)
 * [**Haptic Dial**](#haptic-dial)
 * [**Cat Feeder**](#cat-feeder)
+* [**Track Map**](#track-map)
 
 ---
 
@@ -23,6 +24,10 @@ Context:
 
 ## Cat Feeder
 Context:
+
+## Track Map
+Context:
+
 
 page for themes:
 #### Tested Theme Hierarchy:
