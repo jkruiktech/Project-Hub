@@ -36,6 +36,21 @@ Context:
 Context:
 
 [//]: <> (A physical formula 1 track able to display real time data from open source servers.)
+This idea is the merging of 3D printed F1 track maps (which are reasonably widespread), and the small map shown during an F1 race. I wanted a physical display as a way of bringing the race closer. 
+
+I made a plan (in a spreadsheet of course) and started collecting the necessary information to find out if it was possible. I thought maybe the data would be private or behind a paywall. So I looked at what was out there beyond the official FORMULA 1 apps and sites, whose information was under wraps. I discovered a few websites that displayed race analytics and even live maps of the race. They even used open source data! At that point I knew I was onto something. Seeing open source data displayed on a website with the cars moving around live, most likely meant I could do the same thing as a physical track.
+
+###### MCU selection
+Following this, I needed an MCU with wifi to access the data, GPIOs to control the LEDs, and a small footprint so it would fit easily within the design of the track. I also wanted it to be cheap and it didn't need a fast cpu/processor/clock speed due to not doing much
+
+MCU selection - needed wifi, small footprint, quick setup - ESP32S3
+
+###### Connecting to wifi
+
+
+OpenF1 API - accesssing JSON data through selecting a url and using http get / fetch
+
+
 
 ### Project Repo: https://github.com/jkruiktech/TrackMap/tree/main/TrackMap_wifi
 
