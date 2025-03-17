@@ -1,2 +1,3 @@
-title: "My GitHub Pages Site"
-description: "A multipage site created using Markdown and Jekyll."
+title: My GitHub Pages Site
+description: A simple multipage site using Markdown
+theme: minima  # Or choose any theme you prefer

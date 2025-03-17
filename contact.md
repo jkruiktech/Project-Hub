@@ -1,11 +1,13 @@
 ---
-title: "About"
+title: "Contact"
 layout: default
 ---
 
-# About Me
+# Contact Me
 
-Welcome to my about page. Here's a little bit about myself.
+Here's how you can reach me:
+
+Email: me@example.com
 
 ## Navigation
 - [Home](index.md)
