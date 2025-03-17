@@ -1,17 +1,9 @@
 ---
-title: Overview
 layout: default
-nav_order: 1
+title: Home
+permalink: /
 ---
 
-A place to record projects, big 🚀 and small 🔋
+# Welcome to Our Website
 
-<!-- try permalinks for other pages? -->
-    
-    
-    
-    
-    
-    
-    
-    
+This is the homepage of our multipage site.
